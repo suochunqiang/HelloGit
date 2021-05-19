@@ -8,5 +8,6 @@ public class HelloGit {
         System.out.println("分支第七行添加");
 
         System.out.println("没有更新直接提交");
+        System.out.println("请先更新代码");
     }
 }
