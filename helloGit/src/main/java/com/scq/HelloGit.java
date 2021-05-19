@@ -6,5 +6,7 @@ public class HelloGit {
         System.out.println("分支添加");
         System.out.println("主干第七行添加");
         System.out.println("分支第七行添加");
+
+        System.out.println("没有更新直接提交");
     }
 }
